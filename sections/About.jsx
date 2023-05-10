@@ -22,24 +22,13 @@ const About = () => (
         variants={fadeIn("up", "tween", 0.2, 1)}
         className="mt-[8px] font-normal sm:text-[32px] text-[20px] text-center text-secondary-white"
       >
-        <span className="font-extrabold text-white">Metatown</span> it is
-        a virtual world or metaverse that combines elements of
-        of today, using only{" "}
-        <span className="font-extrabold text-white">gaming, social
-        media, and e-commerce </span>
-        to create a unique and immersive experience for
-        its users. In Metatown, users can create avatars and interact with other
-        users in a virtual environment, build and customize their own virtual
-        spaces, and participate in various activities such as games, events, and
-        shopping,{" "}
-        <span className="font-extrabold text-white">
-          madness of the metatown
-        </span>{" "}
-        of today, using only devices you can
-        easily explore the metaverse world you want, turn your creativity into
-        money. Let's{" "}
-        <span className="font-extrabold text-white">explore</span> the madness
-        of the metatown by scrolling down
+        Welcome to
+        <span className="font-extrabold text-white"> Metatown.io</span> where we
+        offer customized virtual solutions designed to address the unique
+        challenges and opportunities faced by decision-makers across various
+        industries. Explore how our immersive and collaborative virtual
+        townships can revolutionize the way you showcase your products,
+        services, and ecosystems.
       </motion.p>
 
       <motion.img
